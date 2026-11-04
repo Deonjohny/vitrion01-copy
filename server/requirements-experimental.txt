@@ -1,0 +1,5 @@
+# Optional research-only ONNX detector. No clinical validation or automatic anatomy mapping.
+-r requirements.txt
+numpy==2.2.6
+onnxruntime==1.23.2
+onnx==1.19.1

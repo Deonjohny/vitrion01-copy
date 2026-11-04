@@ -1,0 +1,18 @@
+# Separate opt-in deployment; default root Compose does not parse these required credentials.
+services:
+  orthanc:
+    image: "${ORTHANC_IMAGE:?Set a reviewed Orthanc image pinned by digest}"
+    ports:
+      - "127.0.0.1:8042:8042"
+    environment:
+      ORTHANC__AUTHENTICATION_ENABLED: "true"
+      ORTHANC__REGISTERED_USERS: '{"${ORTHANC_USERNAME:?Set an explicit Orthanc username}":"${ORTHANC_PASSWORD:?Set a strong Orthanc password}"}'
+      ORTHANC__REMOTE_ACCESS_ALLOWED: "true"
+      ORTHANC__DICOM_SERVER_ENABLED: "false"
+    volumes:
+      - orthanc_data:/var/lib/orthanc/db
+    security_opt:
+      - no-new-privileges:true
+    restart: "no"
+volumes:
+  orthanc_data:

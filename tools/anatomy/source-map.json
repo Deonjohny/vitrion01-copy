@@ -1,0 +1,834 @@
+[
+  {
+    "boneId": "FRONTAL",
+    "nodeName": "Frontal bone"
+  },
+  {
+    "boneId": "OCCIPITAL",
+    "nodeName": "Occipital bone"
+  },
+  {
+    "boneId": "SPHENOID",
+    "nodeName": "Sphenoid bone"
+  },
+  {
+    "boneId": "ETHMOID",
+    "nodeName": "Ethmoid bone"
+  },
+  {
+    "boneId": "VOMER",
+    "nodeName": "Vomer"
+  },
+  {
+    "boneId": "MANDIBLE",
+    "nodeName": "Mandible"
+  },
+  {
+    "boneId": "HYOID",
+    "nodeName": "Hyoid bone"
+  },
+  {
+    "boneId": "SACRUM",
+    "nodeName": "Sacrum"
+  },
+  {
+    "boneId": "COCCYX",
+    "nodeName": "Coccyx"
+  },
+  {
+    "boneId": "PARIETAL_LEFT",
+    "nodeName": "Parietal bone.l"
+  },
+  {
+    "boneId": "PARIETAL_RIGHT",
+    "nodeName": "Parietal bone.r"
+  },
+  {
+    "boneId": "TEMPORAL_LEFT",
+    "nodeName": "Temporal bone.l"
+  },
+  {
+    "boneId": "TEMPORAL_RIGHT",
+    "nodeName": "Temporal bone.r"
+  },
+  {
+    "boneId": "ZYGOMATIC_LEFT",
+    "nodeName": "Zygomatic bone.l"
+  },
+  {
+    "boneId": "ZYGOMATIC_RIGHT",
+    "nodeName": "Zygomatic bone.r"
+  },
+  {
+    "boneId": "NASAL_LEFT",
+    "nodeName": "Nasal bone.l"
+  },
+  {
+    "boneId": "NASAL_RIGHT",
+    "nodeName": "Nasal bone.r"
+  },
+  {
+    "boneId": "LACRIMAL_LEFT",
+    "nodeName": "Lacrimal bone.l"
+  },
+  {
+    "boneId": "LACRIMAL_RIGHT",
+    "nodeName": "Lacrimal bone.r"
+  },
+  {
+    "boneId": "PALATINE_LEFT",
+    "nodeName": "Palatine bone.l"
+  },
+  {
+    "boneId": "PALATINE_RIGHT",
+    "nodeName": "Palatine bone.r"
+  },
+  {
+    "boneId": "MAXILLA_LEFT",
+    "nodeName": "Maxilla.l"
+  },
+  {
+    "boneId": "MAXILLA_RIGHT",
+    "nodeName": "Maxilla.r"
+  },
+  {
+    "boneId": "INFERIOR_NASAL_CONCHA_LEFT",
+    "nodeName": "Inferior nasal concha bone.l"
+  },
+  {
+    "boneId": "INFERIOR_NASAL_CONCHA_RIGHT",
+    "nodeName": "Inferior nasal concha bone.r"
+  },
+  {
+    "boneId": "MALLEUS_LEFT",
+    "nodeName": "Malleus.l"
+  },
+  {
+    "boneId": "MALLEUS_RIGHT",
+    "nodeName": "Malleus.r"
+  },
+  {
+    "boneId": "INCUS_LEFT",
+    "nodeName": "Incus.l"
+  },
+  {
+    "boneId": "INCUS_RIGHT",
+    "nodeName": "Incus.r"
+  },
+  {
+    "boneId": "STAPES_LEFT",
+    "nodeName": "Stapes.l"
+  },
+  {
+    "boneId": "STAPES_RIGHT",
+    "nodeName": "Stapes.r"
+  },
+  {
+    "boneId": "CLAVICLE_LEFT",
+    "nodeName": "Clavicle.l"
+  },
+  {
+    "boneId": "CLAVICLE_RIGHT",
+    "nodeName": "Clavicle.r"
+  },
+  {
+    "boneId": "SCAPULA_LEFT",
+    "nodeName": "Scapula.l"
+  },
+  {
+    "boneId": "SCAPULA_RIGHT",
+    "nodeName": "Scapula.r"
+  },
+  {
+    "boneId": "HUMERUS_LEFT",
+    "nodeName": "Humerus.l"
+  },
+  {
+    "boneId": "HUMERUS_RIGHT",
+    "nodeName": "Humerus.r"
+  },
+  {
+    "boneId": "RADIUS_LEFT",
+    "nodeName": "Radius.l"
+  },
+  {
+    "boneId": "RADIUS_RIGHT",
+    "nodeName": "Radius.r"
+  },
+  {
+    "boneId": "ULNA_LEFT",
+    "nodeName": "Ulna.l"
+  },
+  {
+    "boneId": "ULNA_RIGHT",
+    "nodeName": "Ulna.r"
+  },
+  {
+    "boneId": "PELVIS_LEFT",
+    "nodeName": "Hip bone.l"
+  },
+  {
+    "boneId": "PELVIS_RIGHT",
+    "nodeName": "Hip bone.r"
+  },
+  {
+    "boneId": "FEMUR_LEFT",
+    "nodeName": "Femur.l"
+  },
+  {
+    "boneId": "FEMUR_RIGHT",
+    "nodeName": "Femur.r"
+  },
+  {
+    "boneId": "PATELLA_LEFT",
+    "nodeName": "Patella.l"
+  },
+  {
+    "boneId": "PATELLA_RIGHT",
+    "nodeName": "Patella.r"
+  },
+  {
+    "boneId": "TIBIA_LEFT",
+    "nodeName": "Tibia.l"
+  },
+  {
+    "boneId": "TIBIA_RIGHT",
+    "nodeName": "Tibia.r"
+  },
+  {
+    "boneId": "FIBULA_LEFT",
+    "nodeName": "Fibula.l"
+  },
+  {
+    "boneId": "FIBULA_RIGHT",
+    "nodeName": "Fibula.r"
+  },
+  {
+    "boneId": "SCAPHOID_LEFT",
+    "nodeName": "Scaphoid bone.l"
+  },
+  {
+    "boneId": "SCAPHOID_RIGHT",
+    "nodeName": "Scaphoid bone.r"
+  },
+  {
+    "boneId": "LUNATE_LEFT",
+    "nodeName": "Lunate bone.l"
+  },
+  {
+    "boneId": "LUNATE_RIGHT",
+    "nodeName": "Lunate bone.r"
+  },
+  {
+    "boneId": "TRIQUETRUM_LEFT",
+    "nodeName": "Triquetrum bone.l"
+  },
+  {
+    "boneId": "TRIQUETRUM_RIGHT",
+    "nodeName": "Triquetrum bone.r"
+  },
+  {
+    "boneId": "PISIFORM_LEFT",
+    "nodeName": "Pisiform bone.l"
+  },
+  {
+    "boneId": "PISIFORM_RIGHT",
+    "nodeName": "Pisiform bone.r"
+  },
+  {
+    "boneId": "TRAPEZIUM_LEFT",
+    "nodeName": "Trapezium bone.l"
+  },
+  {
+    "boneId": "TRAPEZIUM_RIGHT",
+    "nodeName": "Trapezium bone.r"
+  },
+  {
+    "boneId": "TRAPEZOID_LEFT",
+    "nodeName": "Trapezoid bone.l"
+  },
+  {
+    "boneId": "TRAPEZOID_RIGHT",
+    "nodeName": "Trapezoid bone.r"
+  },
+  {
+    "boneId": "CAPITATE_LEFT",
+    "nodeName": "Capitate bone.l"
+  },
+  {
+    "boneId": "CAPITATE_RIGHT",
+    "nodeName": "Capitate bone.r"
+  },
+  {
+    "boneId": "HAMATE_LEFT",
+    "nodeName": "Hamate bone.l"
+  },
+  {
+    "boneId": "HAMATE_RIGHT",
+    "nodeName": "Hamate bone.r"
+  },
+  {
+    "boneId": "NAVICULAR_LEFT",
+    "nodeName": "Navicular bone.l"
+  },
+  {
+    "boneId": "NAVICULAR_RIGHT",
+    "nodeName": "Navicular bone.r"
+  },
+  {
+    "boneId": "CUBOID_LEFT",
+    "nodeName": "Cuboid bone.l"
+  },
+  {
+    "boneId": "CUBOID_RIGHT",
+    "nodeName": "Cuboid bone.r"
+  },
+  {
+    "boneId": "MEDIAL_CUNEIFORM_LEFT",
+    "nodeName": "Medial cuneiform bone.l"
+  },
+  {
+    "boneId": "MEDIAL_CUNEIFORM_RIGHT",
+    "nodeName": "Medial cuneiform bone.r"
+  },
+  {
+    "boneId": "INTERMEDIATE_CUNEIFORM_LEFT",
+    "nodeName": "Intermediate cuneiform bone.l"
+  },
+  {
+    "boneId": "INTERMEDIATE_CUNEIFORM_RIGHT",
+    "nodeName": "Intermediate cuneiform bone.r"
+  },
+  {
+    "boneId": "LATERAL_CUNEIFORM_LEFT",
+    "nodeName": "Lateral cuneiform bone.l"
+  },
+  {
+    "boneId": "LATERAL_CUNEIFORM_RIGHT",
+    "nodeName": "Lateral cuneiform bone.r"
+  },
+  {
+    "boneId": "TALUS_LEFT",
+    "nodeName": "Talus.l"
+  },
+  {
+    "boneId": "TALUS_RIGHT",
+    "nodeName": "Talus.r"
+  },
+  {
+    "boneId": "CALCANEUS_LEFT",
+    "nodeName": "Calcaneus.l"
+  },
+  {
+    "boneId": "CALCANEUS_RIGHT",
+    "nodeName": "Calcaneus.r"
+  },
+  {
+    "boneId": "STERNUM",
+    "nodeName": "Manubrium of sternum"
+  },
+  {
+    "boneId": "STERNUM",
+    "nodeName": "Body of sternum"
+  },
+  {
+    "boneId": "STERNUM",
+    "nodeName": "Xiphoid process"
+  },
+  {
+    "boneId": "C1",
+    "nodeName": "Atlas (C1)"
+  },
+  {
+    "boneId": "C2",
+    "nodeName": "Axis (C2)"
+  },
+  {
+    "boneId": "C3",
+    "nodeName": "Vertebra C3"
+  },
+  {
+    "boneId": "C4",
+    "nodeName": "Vertebra C4"
+  },
+  {
+    "boneId": "C5",
+    "nodeName": "Vertebra C5"
+  },
+  {
+    "boneId": "C6",
+    "nodeName": "Vertebra C6"
+  },
+  {
+    "boneId": "C7",
+    "nodeName": "Vertebra C7"
+  },
+  {
+    "boneId": "T1",
+    "nodeName": "Vertebra T1"
+  },
+  {
+    "boneId": "T2",
+    "nodeName": "Vertebra T2"
+  },
+  {
+    "boneId": "T3",
+    "nodeName": "Vertebra T3"
+  },
+  {
+    "boneId": "T4",
+    "nodeName": "Vertebra T4"
+  },
+  {
+    "boneId": "T5",
+    "nodeName": "Vertebra T5"
+  },
+  {
+    "boneId": "T6",
+    "nodeName": "Vertebra T6"
+  },
+  {
+    "boneId": "T7",
+    "nodeName": "Vertebra T7"
+  },
+  {
+    "boneId": "T8",
+    "nodeName": "Vertebra T8"
+  },
+  {
+    "boneId": "T9",
+    "nodeName": "Vertebra T9"
+  },
+  {
+    "boneId": "T10",
+    "nodeName": "Vertebra T10"
+  },
+  {
+    "boneId": "T11",
+    "nodeName": "Vertebra T11"
+  },
+  {
+    "boneId": "T12",
+    "nodeName": "Vertebra T12"
+  },
+  {
+    "boneId": "L1",
+    "nodeName": "Vertebra L1"
+  },
+  {
+    "boneId": "L2",
+    "nodeName": "Vertebra L2"
+  },
+  {
+    "boneId": "L3",
+    "nodeName": "Vertebra L3"
+  },
+  {
+    "boneId": "L4",
+    "nodeName": "Vertebra L4"
+  },
+  {
+    "boneId": "L5",
+    "nodeName": "Vertebra L5"
+  },
+  {
+    "boneId": "RIB_1_LEFT",
+    "nodeName": "First rib.l"
+  },
+  {
+    "boneId": "RIB_1_RIGHT",
+    "nodeName": "First rib.r"
+  },
+  {
+    "boneId": "RIB_2_LEFT",
+    "nodeName": "Second rib.l"
+  },
+  {
+    "boneId": "RIB_2_RIGHT",
+    "nodeName": "Second rib.r"
+  },
+  {
+    "boneId": "RIB_3_LEFT",
+    "nodeName": "Third rib.l"
+  },
+  {
+    "boneId": "RIB_3_RIGHT",
+    "nodeName": "Third rib.r"
+  },
+  {
+    "boneId": "RIB_4_LEFT",
+    "nodeName": "Fourth rib.l"
+  },
+  {
+    "boneId": "RIB_4_RIGHT",
+    "nodeName": "Fourth rib.r"
+  },
+  {
+    "boneId": "RIB_5_LEFT",
+    "nodeName": "Fifth rib.l"
+  },
+  {
+    "boneId": "RIB_5_RIGHT",
+    "nodeName": "Fifth rib.r"
+  },
+  {
+    "boneId": "RIB_6_LEFT",
+    "nodeName": "Sixth rib.l"
+  },
+  {
+    "boneId": "RIB_6_RIGHT",
+    "nodeName": "Sixth rib.r"
+  },
+  {
+    "boneId": "RIB_7_LEFT",
+    "nodeName": "Seventh rib.l"
+  },
+  {
+    "boneId": "RIB_7_RIGHT",
+    "nodeName": "Seventh rib.r"
+  },
+  {
+    "boneId": "RIB_8_LEFT",
+    "nodeName": "Eighth rib.l"
+  },
+  {
+    "boneId": "RIB_8_RIGHT",
+    "nodeName": "Eighth rib.r"
+  },
+  {
+    "boneId": "RIB_9_LEFT",
+    "nodeName": "Ninth rib.l"
+  },
+  {
+    "boneId": "RIB_9_RIGHT",
+    "nodeName": "Ninth rib.r"
+  },
+  {
+    "boneId": "RIB_10_LEFT",
+    "nodeName": "Tenth rib.l"
+  },
+  {
+    "boneId": "RIB_10_RIGHT",
+    "nodeName": "Tenth rib.r"
+  },
+  {
+    "boneId": "RIB_11_LEFT",
+    "nodeName": "Eleventh rib.l"
+  },
+  {
+    "boneId": "RIB_11_RIGHT",
+    "nodeName": "Eleventh rib.r"
+  },
+  {
+    "boneId": "RIB_12_LEFT",
+    "nodeName": "Twelfth rib.l"
+  },
+  {
+    "boneId": "RIB_12_RIGHT",
+    "nodeName": "Twelfth rib.r"
+  },
+  {
+    "boneId": "METACARPAL_1_LEFT",
+    "nodeName": "First metacarpal bone.l"
+  },
+  {
+    "boneId": "METACARPAL_1_RIGHT",
+    "nodeName": "First metacarpal bone.r"
+  },
+  {
+    "boneId": "HAND_PROXIMAL_PHALANX_1_LEFT",
+    "nodeName": "Proximal phalanx of first finger of hand.l"
+  },
+  {
+    "boneId": "HAND_PROXIMAL_PHALANX_1_RIGHT",
+    "nodeName": "Proximal phalanx of first finger of hand.r"
+  },
+  {
+    "boneId": "HAND_DISTAL_PHALANX_1_LEFT",
+    "nodeName": "Distal phalanx of first finger of hand.l"
+  },
+  {
+    "boneId": "HAND_DISTAL_PHALANX_1_RIGHT",
+    "nodeName": "Distal phalanx of first finger of hand.r"
+  },
+  {
+    "boneId": "METACARPAL_2_LEFT",
+    "nodeName": "Second metacarpal bone.l"
+  },
+  {
+    "boneId": "METACARPAL_2_RIGHT",
+    "nodeName": "Second metacarpal bone.r"
+  },
+  {
+    "boneId": "HAND_PROXIMAL_PHALANX_2_LEFT",
+    "nodeName": "Proximal phalanx of second finger of hand.l"
+  },
+  {
+    "boneId": "HAND_PROXIMAL_PHALANX_2_RIGHT",
+    "nodeName": "Proximal phalanx of second finger of hand.r"
+  },
+  {
+    "boneId": "HAND_MIDDLE_PHALANX_2_LEFT",
+    "nodeName": "Middle phalanx of second finger of hand.l"
+  },
+  {
+    "boneId": "HAND_MIDDLE_PHALANX_2_RIGHT",
+    "nodeName": "Middle phalanx of second finger of hand.r"
+  },
+  {
+    "boneId": "HAND_DISTAL_PHALANX_2_LEFT",
+    "nodeName": "Distal phalanx of second finger of hand.l"
+  },
+  {
+    "boneId": "HAND_DISTAL_PHALANX_2_RIGHT",
+    "nodeName": "Distal phalanx of second finger of hand.r"
+  },
+  {
+    "boneId": "METACARPAL_3_LEFT",
+    "nodeName": "Third metacarpal bone.l"
+  },
+  {
+    "boneId": "METACARPAL_3_RIGHT",
+    "nodeName": "Third metacarpal bone.r"
+  },
+  {
+    "boneId": "HAND_PROXIMAL_PHALANX_3_LEFT",
+    "nodeName": "Proximal phalanx of third finger of hand.l"
+  },
+  {
+    "boneId": "HAND_PROXIMAL_PHALANX_3_RIGHT",
+    "nodeName": "Proximal phalanx of third finger of hand.r"
+  },
+  {
+    "boneId": "HAND_MIDDLE_PHALANX_3_LEFT",
+    "nodeName": "Middle phalanx of third finger of hand.l"
+  },
+  {
+    "boneId": "HAND_MIDDLE_PHALANX_3_RIGHT",
+    "nodeName": "Middle phalanx of third finger of hand.r"
+  },
+  {
+    "boneId": "HAND_DISTAL_PHALANX_3_LEFT",
+    "nodeName": "Distal phalanx of third finger of hand.l"
+  },
+  {
+    "boneId": "HAND_DISTAL_PHALANX_3_RIGHT",
+    "nodeName": "Distal phalanx of third finger of hand.r"
+  },
+  {
+    "boneId": "METACARPAL_4_LEFT",
+    "nodeName": "Fourth metacarpal bone.l"
+  },
+  {
+    "boneId": "METACARPAL_4_RIGHT",
+    "nodeName": "Fourth metacarpal bone.r"
+  },
+  {
+    "boneId": "HAND_PROXIMAL_PHALANX_4_LEFT",
+    "nodeName": "Proximal phalanx of fourth finger of hand.l"
+  },
+  {
+    "boneId": "HAND_PROXIMAL_PHALANX_4_RIGHT",
+    "nodeName": "Proximal phalanx of fourth finger of hand.r"
+  },
+  {
+    "boneId": "HAND_MIDDLE_PHALANX_4_LEFT",
+    "nodeName": "Middle phalanx of fourth finger of hand.l"
+  },
+  {
+    "boneId": "HAND_MIDDLE_PHALANX_4_RIGHT",
+    "nodeName": "Middle phalanx of fourth finger of hand.r"
+  },
+  {
+    "boneId": "HAND_DISTAL_PHALANX_4_LEFT",
+    "nodeName": "Distal phalanx of fourth finger of hand.l"
+  },
+  {
+    "boneId": "HAND_DISTAL_PHALANX_4_RIGHT",
+    "nodeName": "Distal phalanx of fourth finger of hand.r"
+  },
+  {
+    "boneId": "METACARPAL_5_LEFT",
+    "nodeName": "Fifth metacarpal bone.l"
+  },
+  {
+    "boneId": "METACARPAL_5_RIGHT",
+    "nodeName": "Fifth metacarpal bone.r"
+  },
+  {
+    "boneId": "HAND_PROXIMAL_PHALANX_5_LEFT",
+    "nodeName": "Proximal phalanx of fifth finger of hand.l"
+  },
+  {
+    "boneId": "HAND_PROXIMAL_PHALANX_5_RIGHT",
+    "nodeName": "Proximal phalanx of fifth finger of hand.r"
+  },
+  {
+    "boneId": "HAND_MIDDLE_PHALANX_5_LEFT",
+    "nodeName": "Middle phalanx of fifth finger of hand.l"
+  },
+  {
+    "boneId": "HAND_MIDDLE_PHALANX_5_RIGHT",
+    "nodeName": "Middle phalanx of fifth finger of hand.r"
+  },
+  {
+    "boneId": "HAND_DISTAL_PHALANX_5_LEFT",
+    "nodeName": "Distal phalanx of fifth finger of hand.l"
+  },
+  {
+    "boneId": "HAND_DISTAL_PHALANX_5_RIGHT",
+    "nodeName": "Distal phalanx of fifth finger of hand.r"
+  },
+  {
+    "boneId": "METATARSAL_1_LEFT",
+    "nodeName": "First metatarsal bone.l"
+  },
+  {
+    "boneId": "METATARSAL_1_RIGHT",
+    "nodeName": "First metatarsal bone.r"
+  },
+  {
+    "boneId": "FOOT_PROXIMAL_PHALANX_1_LEFT",
+    "nodeName": "Proximal phalanx of first finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_PROXIMAL_PHALANX_1_RIGHT",
+    "nodeName": "Proximal phalanx of first finger of foot.r"
+  },
+  {
+    "boneId": "FOOT_DISTAL_PHALANX_1_LEFT",
+    "nodeName": "Distal phalanx of first finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_DISTAL_PHALANX_1_RIGHT",
+    "nodeName": "Distal phalanx of first finger of foot.r"
+  },
+  {
+    "boneId": "METATARSAL_2_LEFT",
+    "nodeName": "Second metatarsal bone.l"
+  },
+  {
+    "boneId": "METATARSAL_2_RIGHT",
+    "nodeName": "Second metatarsal bone.r"
+  },
+  {
+    "boneId": "FOOT_PROXIMAL_PHALANX_2_LEFT",
+    "nodeName": "Proximal phalanx of second finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_PROXIMAL_PHALANX_2_RIGHT",
+    "nodeName": "Proximal phalanx of second finger of foot.r"
+  },
+  {
+    "boneId": "FOOT_MIDDLE_PHALANX_2_LEFT",
+    "nodeName": "Middle phalanx of second finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_MIDDLE_PHALANX_2_RIGHT",
+    "nodeName": "Middle phalanx of second finger of foot.r"
+  },
+  {
+    "boneId": "FOOT_DISTAL_PHALANX_2_LEFT",
+    "nodeName": "Distal phalanx of second finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_DISTAL_PHALANX_2_RIGHT",
+    "nodeName": "Distal phalanx of second finger of foot.r"
+  },
+  {
+    "boneId": "METATARSAL_3_LEFT",
+    "nodeName": "Third metatarsal bone.l"
+  },
+  {
+    "boneId": "METATARSAL_3_RIGHT",
+    "nodeName": "Third metatarsal bone.r"
+  },
+  {
+    "boneId": "FOOT_PROXIMAL_PHALANX_3_LEFT",
+    "nodeName": "Proximal phalanx of third finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_PROXIMAL_PHALANX_3_RIGHT",
+    "nodeName": "Proximal phalanx of third finger of foot.r"
+  },
+  {
+    "boneId": "FOOT_MIDDLE_PHALANX_3_LEFT",
+    "nodeName": "Middle phalanx of third finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_MIDDLE_PHALANX_3_RIGHT",
+    "nodeName": "Middle phalanx of third finger of foot.r"
+  },
+  {
+    "boneId": "FOOT_DISTAL_PHALANX_3_LEFT",
+    "nodeName": "Distal phalanx of third finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_DISTAL_PHALANX_3_RIGHT",
+    "nodeName": "Distal phalanx of third finger of foot.r"
+  },
+  {
+    "boneId": "METATARSAL_4_LEFT",
+    "nodeName": "Fourth metatarsal bone.l"
+  },
+  {
+    "boneId": "METATARSAL_4_RIGHT",
+    "nodeName": "Fourth metatarsal bone.r"
+  },
+  {
+    "boneId": "FOOT_PROXIMAL_PHALANX_4_LEFT",
+    "nodeName": "Proximal phalanx of fourth finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_PROXIMAL_PHALANX_4_RIGHT",
+    "nodeName": "Proximal phalanx of fourth finger of foot.r"
+  },
+  {
+    "boneId": "FOOT_MIDDLE_PHALANX_4_LEFT",
+    "nodeName": "Middle phalanx of fourth finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_MIDDLE_PHALANX_4_RIGHT",
+    "nodeName": "Middle phalanx of fourth finger of foot.r"
+  },
+  {
+    "boneId": "FOOT_DISTAL_PHALANX_4_LEFT",
+    "nodeName": "Distal phalanx of fourth finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_DISTAL_PHALANX_4_RIGHT",
+    "nodeName": "Distal phalanx of fourth finger of foot.r"
+  },
+  {
+    "boneId": "METATARSAL_5_LEFT",
+    "nodeName": "Fifth metatarsal bone.l"
+  },
+  {
+    "boneId": "METATARSAL_5_RIGHT",
+    "nodeName": "Fifth metatarsal bone.r"
+  },
+  {
+    "boneId": "FOOT_PROXIMAL_PHALANX_5_LEFT",
+    "nodeName": "Proximal phalanx of fifth finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_PROXIMAL_PHALANX_5_RIGHT",
+    "nodeName": "Proximal phalanx of fifth finger of foot.r"
+  },
+  {
+    "boneId": "FOOT_MIDDLE_PHALANX_5_LEFT",
+    "nodeName": "Middle phalanx of fifth finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_MIDDLE_PHALANX_5_RIGHT",
+    "nodeName": "Middle phalanx of fifth finger of foot.r"
+  },
+  {
+    "boneId": "FOOT_DISTAL_PHALANX_5_LEFT",
+    "nodeName": "Distal phalanx of fifth finger of foot.l"
+  },
+  {
+    "boneId": "FOOT_DISTAL_PHALANX_5_RIGHT",
+    "nodeName": "Distal phalanx of fifth finger of foot.r"
+  }
+]

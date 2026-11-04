@@ -1,0 +1,7 @@
+# Optional CPU/local adapter dependencies; install into an isolated environment only.
+# Obtain trusted task-trained artifacts independently. No model artifacts are downloaded by the service.
+-r requirements.txt
+ultralytics==8.3.203
+torch==2.8.0
+transformers==4.57.1
+safetensors==0.6.2

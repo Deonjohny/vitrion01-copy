@@ -1,0 +1,29 @@
+SKELETON GEOMETRY ATTRIBUTION AND LICENSE
+
+BodyParts3D - The Database Center for Life Science - CC-BY-SA 2.1 Japan
+Original model: Kousaku OKUBO
+https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html
+https://creativecommons.org/licenses/by-sa/2.1/jp/
+
+Z-Anatomy - The libre 3D atlas of anatomy - CC-BY-SA 4.0
+Design, 3D, anatomy: Gauthier KERVYN
+https://github.com/Z-Anatomy/Models-of-human-anatomy
+https://creativecommons.org/licenses/by-sa/4.0/
+Upstream license: https://github.com/Z-Anatomy/Models-of-human-anatomy/blob/master/License.txt
+
+This skeleton-only derivative is shared under CC BY-SA 4.0, retaining the
+upstream BodyParts3D attribution. Changes: explicitly select the 208 named bone
+mesh objects in source-map.json; triangulate loaded base mesh data; bake source
+world transforms; convert Z-up to Y-up; strip materials, textures, modifiers,
+annotations, definitions and application code; assign a plain ivory material.
+
+No kidney, inner ear organ, nerve, brain, soft tissue, teeth, cartilage, muscle,
+landmark overlays, upstream scripts or Wikipedia definitions are included.
+Malleus, incus and stapes are skeletal ossicles, not the separately licensed
+inner ear organ model. Selection is an explicit source-name bone allowlist,
+not export of the entire Skeletal system collection (which contains non-bones).
+
+208 mesh nodes map to 206 catalog IDs: sternum uses three component nodes.
+Source labels and geometry have been checked mechanically; these are not
+independent clinical/anatomical certification or verified ontology mappings.
+The asset is for education and visualization, not medical diagnosis.
