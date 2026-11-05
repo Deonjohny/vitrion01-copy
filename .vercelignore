@@ -1,0 +1,14 @@
+node_modules
+.next
+.next-*
+.vercel
+.vscode
+server
+tests
+docs
+tools
+coverage
+playwright-report
+test-results
+*.tsbuildinfo
+compose.yaml
